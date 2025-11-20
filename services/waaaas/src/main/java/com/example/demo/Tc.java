@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Tc {
     @GetMapping
     public String hello() {
-        return "Hello World";
+        return "waaaas server is running";
     }
 }
